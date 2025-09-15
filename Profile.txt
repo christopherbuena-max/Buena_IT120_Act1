@@ -1,1 +1,2 @@
 FirstName: Zayn Christopher \nMiddleName: H. \nLastName: Buena \nAge: 22 \nBirthdate: 2002-03-12 
+Birth Place: Cabadbaran City \nReligion: Catholic \nFather’s Name: Dante O. Dagohoy \nMother’s Name: Nancy H. Buena 
